@@ -10,13 +10,12 @@
 
 🛠️ Projects I'm working on:
 - Open-WebUI with EVM wallet integration
-- FastAPI reward API with JWT
-- English learning app with TTS & pronunciation scoring
-- Zeroth Blockchain Explorer → https://scan.zeroth.run
+- FastAPI Block Reward API server
+- AI model & RAG, LangChain, MCP 
 - I move fast, iterate faster, and believe great systems are built at the intersection of clarity, creativity, and code.
 Whether launching infrastructure or a new idea, I’m always optimizing for scalability, user value, and long-term impact.
 
-📫 Reach me at: park.valuedesign@gmail.com
+📫 Reach me at: byoungsoopark@yahoo.com
 
 
 <!--
