@@ -15,7 +15,7 @@
 - I move fast, iterate faster, and believe great systems are built at the intersection of clarity, creativity, and code.
 Whether launching infrastructure or a new idea, I’m always optimizing for scalability, user value, and long-term impact.
 
-📫 Reach me at: byoungsoopark@yahoo.com
+📫 Reach me at: tyler.bspark@gmail.com
 
 
 <!--
