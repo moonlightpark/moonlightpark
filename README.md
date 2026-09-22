@@ -3,7 +3,7 @@
 
 🔧 Senior Software Engineer | Blockchain Innovator | AI-Driven Product Builder
 
-🚀 I'm a software engineer working between Seoul & Tokyo  
+🚀 I'm a software engineer working in SEOUL
 💡 I build AI tools, blockchain platforms, and EdTech apps  
 🔧 I love Python, Docker, FastAPI, and decentralized systems  
 🌱 Currently exploring distributed GPU platforms and mining dashboards
