@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Byoungsoo (병수)
 
-**Principal Software Engineer · 20+ Years Building Production Software**
+**Senior Software Engineer · 20+ Years Building Production Software**
 AI Products · Blockchain Platforms · Desktop & Cross-Platform Apps · EdTech
 
 📍 Seoul, Korea  ·  📫 [tyler.bspark@gmail.com](mailto:tyler.bspark@gmail.com)
