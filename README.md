@@ -97,6 +97,26 @@ AI 제품, 블록체인 플랫폼, 데스크톱/크로스플랫폼 앱, 에듀�
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 💬 [Neovim 카카오톡 / LINE 플러그인](https://github.com/moonlightpark/nvim_Line_Kakaotalk_plugin)
+**"에디터에서 손 떼지 않고 메신저 보내기."**
+
+Neovim으로 작업하다 다른 모니터에 있는 카카오톡 창까지 마우스를 옮기는 게 번거로워서 만든 플러그인입니다. 단축키 하나로 Neovim 안에서 카카오톡과 LINE 메시지를 보냅니다.
+
+- ⌨️ **단축키로 전송:** `<leader>ks` / `<leader>kr`로 카카오톡, `<leader>ls` / `<leader>lr`로 LINE 메시지 전송과 응답 확인
+- 🔌 **Lua 플러그인 + 로컬 FastAPI 서버:** Neovim이 로컬 서버(카카오 8000, LINE 8001 포트)로 메시지를 보내면 서버가 메신저 앱에 전달
+- 🖱️ **데스크톱 자동화:** 메신저 창 활성화, 클립보드 붙여넣기, 전송 후 터미널로 자동 복귀. 한글 메시지 지원
+
+`Lua` `Neovim` `Python` `FastAPI` `PyAutoGUI`
+
+🖥️ macOS / **GitHub 공개**
+
+👉 **[GitHub 저장소 바로가기 →](https://github.com/moonlightpark/nvim_Line_Kakaotalk_plugin)**
+
+</td>
+</tr>
 </table>
 
 ---
