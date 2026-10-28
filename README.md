@@ -32,7 +32,7 @@ AI 제품, 블록체인 플랫폼, 데스크톱/크로스플랫폼 앱, 에듀�
 ### 🚚 [ShipGo (쉽고)](https://shipgo.kr) <sub>단독 개발</sub>
 **"운송이 필요할 때 ShipGo 하나면 끝!"**
 
-용달 화물 운송과 이동형 옥외광고를 묶은 스마트 모빌리티 플랫폼입니다. 기획부터 화주/차주 앱, 운영, 웹사이트까지 혼자 개발했습니다.
+용달 화물 운송과 이동형 옥외광고를 묶은 스마트 모빌리티 플랫폼입니다. 백엔드 API, 고객 앱, 기사 앱, 관리자 대시보드, 웹사이트, AWS 인프라까지 혼자 개발하고 운영합니다.
 
 - 📸 **100% 모바일 원스톱 접수:** 짐 사진 업로드, AI 분석 견적, 결제, 배차까지 전화와 서류 없이 처리
 - 📍 **GPS 기반 자동 배차:** 출발지 반경 3km 안의 가장 적합한 기사님을 자동 매칭하고, 운송 중 실시간 위치 추적
@@ -41,8 +41,12 @@ AI 제품, 블록체인 플랫폼, 데스크톱/크로스플랫폼 앱, 에듀�
 - 💳 **6가지 결제 수단과 에스크로:** 카드, 카카오페이, 토스페이, 네이버페이, 계좌이체, 현금. 운송 완료 확인 후 기사님께 정산
 - 📢 **이동형 옥외광고:** 화물차 측면 랩핑/디지털 광고, 지역 타겟팅, GPS 운행 데이터 기반 노출 통계 리포트
 - 🏢 **서비스 범위:** 용달차 호출, 원룸/소형 이사, 물류센터 정기 입고 대행
+- 🛠️ **운영 도구:** 관리자 대시보드에서 콜, 회원/기사 심사, 결제/정산, 광고 캠페인, 문의 관리
+- 🌏 **9개 언어 지원:** 한국어, 베트남어, 영어, 태국어 등. 외국어 요청사항은 Claude로 자동 번역
 
-📱 화주 앱, 드라이버 앱, 웹사이트 / **운영 중**
+`Python` `FastAPI` `SQLAlchemy` `MySQL` `Redis` `WebSocket` `Flutter` `Riverpod` `React 19` `TypeScript` `Vite` `Firebase` `카카오맵` `AWS (S3, Lambda, RDS)` `Terraform` `GitHub Actions`
+
+📱 고객 앱, 기사 앱 (iOS/Android), 관리자 대시보드, 웹사이트 / **운영 중**
 
 👉 **[서비스 바로가기 →](https://shipgo.kr)**
 
@@ -111,9 +115,9 @@ AI 제품, 블록체인 플랫폼, 데스크톱/크로스플랫폼 앱, 에듀�
 **언어:** Python, TypeScript / JavaScript, Java, C / C++, Solidity, SQL
 **AI / ML:** Claude Agent SDK, LangChain, RAG, MCP, Whisper, 로컬 TTS
 **백엔드:** FastAPI, Node.js, REST / WebSocket, PostgreSQL, Redis
-**프론트엔드와 앱:** React, Electron, 크로스플랫폼 모바일
+**프론트엔드와 앱:** React, Electron, Flutter
 **블록체인:** EVM, Web3, 스마트 컨트랙트, 지갑 연동
-**인프라와 DevOps:** Docker, Linux, CI/CD, Git, 클라우드
+**인프라와 DevOps:** AWS, Terraform, Docker, Linux, GitHub Actions, Git
 
 ---
 
